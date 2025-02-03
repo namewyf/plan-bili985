@@ -129,9 +129,9 @@ export default hopeTheme({
     },
     
     docsearch: {
-      appId: '9BSITZJJ9E', // 替换为你的 Algolia App ID
-      apiKey: '0391c2cd00cf0b21f54182044c9edc96', // 替换为你的 Algolia API Key
-      indexName: 'bili985', // 替换为你的 Algolia 索引名称
+      appId: 'SZQVWZG8CG', // 替换为你的 Algolia App ID
+      apiKey: '4f0960a50c49fe6a8a1bab78536c933e', // 替换为你的 Algolia API Key
+      indexName: 'plan-bili985', // 替换为你的 Algolia 索引名称
       placeholder: '搜索',
       locales: {
         '/': {
