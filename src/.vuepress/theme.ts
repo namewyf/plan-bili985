@@ -125,7 +125,7 @@ export default hopeTheme({
       provider: "Waline",
 
       // 服务选项
-      serverURL: "https://comments.bili985.com/", // your serverURL
+      serverURL: "https://comments-plan.bili985.com/", // your serverURL
     },
     
     docsearch: {
